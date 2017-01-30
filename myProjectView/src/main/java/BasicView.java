@@ -3,6 +3,9 @@
  */
 public class BasicView {
 
+    public boolean firstMetod () {
+        return true;
+    }
     
 
 }
