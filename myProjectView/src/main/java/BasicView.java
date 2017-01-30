@@ -7,7 +7,7 @@ public class BasicView {
     public boolean firstMetod () {
 
 
-        return 1==4;
+        return 1==1;
     }
     
 

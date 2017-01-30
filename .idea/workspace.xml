@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a61587f7-4faf-4884-9573-c284b883b892" name="Default" comment="#7 Commit in intellij">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myProjectView/src/main/java/BasicView.java" afterPath="$PROJECT_DIR$/myProjectView/src/main/java/BasicView.java" />
     </list>
     <ignored path="myProject.iws" />
@@ -707,7 +706,7 @@
       <workItem from="1485811926779" duration="655000" />
       <workItem from="1485813063931" duration="189000" />
       <workItem from="1485811926779" duration="953000" />
-      <workItem from="1485813842357" duration="330000" />
+      <workItem from="1485813842357" duration="547000" />
     </task>
     <task id="LOCAL-00001" summary="#7 Commit in intellij">
       <created>1485813961661</created>
@@ -720,10 +719,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1283000" />
+    <option name="totallyTimeSpent" value="1500000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="732" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
