@@ -3,6 +3,8 @@
  */
 public class BasicView {
 
-    
+    public void firstMetod () {
+        
+    }
 
 }
