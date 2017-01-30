@@ -9,9 +9,12 @@ public class BasicView {
         return 1==1;
     }
 
-    public void secondMethod () {
-        
+    public boolean secondMethod () {
+        return true;
     }
 
+    public int thirdMethod () {
+        return 0;
+    }
 
 }
